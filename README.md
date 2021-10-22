@@ -17,6 +17,8 @@ This Web application takes advantage of Facebook's Open Source AI module Prophet
 ## Demo
 For more information take a look at the Demo video down below
 
+https://user-images.githubusercontent.com/46849514/138393190-fc49cf64-06e0-450e-8257-46f923b3c9da.mp4
+
 ### Built With
 
 This project is mainly developed in Python. I used Streamlit as a front-end framework due to its Data Science oriented platform. Also, Plotly and Pandas were used for dataframes manipulation and graph plotting.
@@ -63,7 +65,3 @@ After installing all the dependencies all we need to do is start the Streamlit s
   ```
 
 For any questions regarding Streamlit please refer to their documentation at https://docs.streamlit.io/
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[demo-video]: assets/demo-video.mp4
